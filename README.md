@@ -1,3 +1,2 @@
 # SQL-ex
-
-Solving exercises from sql-ex)
+Solving exercises from Sql-Ex)
